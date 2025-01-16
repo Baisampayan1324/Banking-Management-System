@@ -31,7 +31,7 @@ A Java-based application that simulates the core functionalities of an ATM. This
 
 ### **2. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/banking-management-system.git
+git clone https://github.com/Baisampayan1324/banking-management-system.git
 cd banking-management-system
 ```
 
