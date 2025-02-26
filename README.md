@@ -53,6 +53,6 @@ cd banking-management-system
 
 ### **4. Run the Application**
 1. Open the project in your IDE.
-2. Compile and run the `Main.java` file to launch the application.
+2. Compile and run the `Login.java` file to launch the application.
 
 ---
